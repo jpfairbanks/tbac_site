@@ -11,4 +11,4 @@ linkedin: ''
 layout: person
 
 ---
-Anthony, FL Gamma '18 is works at [https://harvestcroo.com/](https://harvestcroo.com/ "Harvest Croo") an agricultural robotics company.
+Anthony, FL Gamma '18 is works at [https://harvestcroo.com/](https://harvestcroo.com/ "Harvest Croo") an agricultural robotics company and is the treasurer of TBAC.
