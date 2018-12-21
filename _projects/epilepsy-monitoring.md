@@ -5,9 +5,7 @@ categories: []
 description: A portable device for epileptic patients.
 banner_image: "/uploads/2018/02/17/neurons.jpg"
 sub_heading: Social and Professional Networking
-tags:
-- engineering
-- research
+tags: []
 slug: ''
 
 ---
