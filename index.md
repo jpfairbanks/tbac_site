@@ -3,7 +3,8 @@ title: TBAC
 banner_image: "/uploads/2018/12/19/tbp_Seal_vector.gif"
 layout: landing-page
 heading: About Us
-partners: []
+partners:
+- "/uploads/2018/12/19/tbp_Seal_vector.gif"
 services: []
 sub_heading: Tau Beta Pi Tampa Bay Alumni Chapter
 textline: |-
@@ -13,7 +14,7 @@ textline: |-
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
 show_staff: true
 menu:
   navigation:
