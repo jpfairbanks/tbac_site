@@ -7,17 +7,17 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: TBP-TBAC
   config:
     required: true
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: Tau Beta Pi
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: Tampa Bay Alumni Chapter
 - type: file
   name: banner_image
   label: Hero Image
@@ -74,6 +74,7 @@ fields:
   name: show_staff
   label: Show Staff?
   description: Enables a staff section that lists each person in the People collection
+  default: true
 - name: layout
   label: Layout
   type: text
