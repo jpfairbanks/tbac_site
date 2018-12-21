@@ -1,17 +1,13 @@
 ---
-title: Charlize Babatunde
+title: James Fairbanks
 date: 2017-11-14 10:54:31 +0000
 role:
 - staff
-thumbnail: "/uploads/2017/11/14/william-stitt-162611.jpg"
-sub_heading: Administration
+thumbnail: "/uploads/2018/12/21/headshot_JPF_bw.png"
+sub_heading: 'Director: Pasco'
 email: ''
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
-
-Charlize Babatunde joined Belkirk in 2015 as Head of Administration.
-
-Charlize graduated with a master's degree in Industrial and Labor Relations and master's degree in Business Administration from Cornell in 2008, and worked with various non-profits before joining Belkirk..
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+James Fairbanks, GA Alpha '16, is the Director for Pasco County. He works at the Georgia Tech Research Institute Tampa Field Site. His research focuses on computational science and engineering, high performance computing, and data analysis.
