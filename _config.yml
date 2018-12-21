@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: TBP Tampa Bay Alumni Chapter
+short_title: TBAC
+description: The chapter site for TBP TBAC
 baseurl:
 permalink: "/:path/"
 defaults:
